@@ -1,0 +1,24 @@
+{
+  "name": "react-tut",
+  "version": "1.0.0",
+  "description": "react tutorial",
+  "main": "src/helloworld.js",
+  "dependencies": {
+    "jsx": "^0.9.89"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikerrrrrr/react-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikerrrrrr/react-tutorial/issues"
+  },
+  "homepage": "https://github.com/mikerrrrrr/react-tutorial"
+}
